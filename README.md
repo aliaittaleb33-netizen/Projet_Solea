@@ -5,11 +5,12 @@ Projet de fin d'année de Licence 3 Télécommunications et Réseaux Informatiqu
 l'infrastructure informatique d'une entreprise fictive répartie sur deux sites.
 
 ## Contexte
-Schéma de l'infrastructure logique du réseau Solea
+Schéma de l'infrastructure logique du réseau Solea:
+
 <img width="1180" height="689" alt="image" src="https://github.com/user-attachments/assets/f1231062-8d4d-4dbe-9009-34c12225bd60" />
 
 
-Schéma de l'infrastructure physique du réseau Solea
+Schéma de l'infrastructure physique du réseau Solea:
 
 <img width="596" height="342" alt="image" src="https://github.com/user-attachments/assets/81d05ca0-5ba9-497a-891e-1d5407fd3345" />
 
